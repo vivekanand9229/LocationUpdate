@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Prompt Employee Registration</string>
+    <string name="name">com.sp.locupdate.name</string>
+    <string name="number">com.sp.locupdate.number</string>
+</resources>
